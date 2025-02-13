@@ -8,7 +8,7 @@ on:
       - '*'
 
 env:
-  IMAGE_TAG: savilovvv/nginx
+  IMAGE_TAG: slava1005/nginx
 
 jobs:
   build:
